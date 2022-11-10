@@ -1,0 +1,4 @@
+com/cici/flink/StreamWordCount.class
+com/cici/flink/BatchWordCount.class
+com/cici/flink/BoundedStreamWordCount.class
+com/cici/flink/App.class
